@@ -1,0 +1,27 @@
+{
+  "__version__": "3.0.9",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "2678dc",
+        "services": []
+      },
+      "android": {
+        "configID": "2678dc",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1770269854282": {
+        "configID": "2678dc",
+        "services": []
+      }
+    },
+    "__version__": "1.3.9"
+  },
+  "builder-options": {
+    "configID": "2678dc",
+    "services": [],
+    "__version__": "3.0.9"
+  }
+}

@@ -1,0 +1,34 @@
+# ==========================
+# Cocos Creator Project .gitignore
+# ==========================
+
+# Auto-generated folders
+library/
+temp/
+build/
+local/
+settings/
+node_modules/
+
+# Node dependencies (if using npm packages)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Optional: npm/yarn debug files
+npm-debug.log
+yarn-error.log
+
+# Cocos Creator backup files
+*.bak
